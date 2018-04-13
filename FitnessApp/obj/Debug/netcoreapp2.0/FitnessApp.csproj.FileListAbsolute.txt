@@ -1,0 +1,11 @@
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.deps.json
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.runtimeconfig.json
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.runtimeconfig.dev.json
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.dll
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\bin\Debug\netcoreapp2.0\FitnessApp.pdb
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.csprojResolveAssemblyReference.cache
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.csproj.CoreCompileInputs.cache
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.AssemblyInfoInputs.cache
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.AssemblyInfo.cs
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.dll
+F:\Owner\C#CodeRepository\FitnessApp\FitnessApp\obj\Debug\netcoreapp2.0\FitnessApp.pdb
